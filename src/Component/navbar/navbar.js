@@ -26,7 +26,7 @@ const Navbar = () => {
                                     </button> 
                                 </div>
                             </div>
-                            <button class="text-white font-bold py-2 px-4 rounded bg-gradient-to-r from-orange1 to-orange2"> 
+                            <button class="text-white font-bold py-2 px-4 rounded bg-gradient-to-b from-orange1 to-orange2"> 
                                 Login
                             </button>  
                         </div>

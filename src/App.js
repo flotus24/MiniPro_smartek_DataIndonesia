@@ -17,7 +17,6 @@ function App() {
       <Body />
       <SearchPage />
       <Body2 />
-      <Subscribe />
       <Footer />
     </div>
   );
